@@ -1,0 +1,72 @@
+public fun doSomething() {
+        var counter=0
+        var counter1=1
+
+        val car1 = Car(270000,"Alfa Romeo Mito")
+        val car2 = Car(2395000,"Aston Martin Vanquish")
+        val car3 = Car(300000,"Audi A1")
+        val car4 = Car(30000000,"Bugatti Veyron")
+        val car5 = Car(1000000,"Bentley Continental GT")
+        val car6 = Car(360000,"BMW X3")
+        val car7 = Car(250000,"Cadillac Escalade")
+        val car8 = Car(1000000,"Chevrolet Camaro")
+
+        val cars = arrayOf(car1,car2,car3,car4,car5,car6,car7,car8)
+        val images = arrayOf(
+            R.drawable.image1,
+            R.drawable.image2,
+            R.drawable.image3,
+            R.drawable.image4,
+            R.drawable.image5,
+            R.drawable.image6,
+            R.drawable.image7,
+            R.drawable.image8)
+
+        option1Button.setImageResource(R.drawable.image1)
+        option2Button.setImageResource(R.drawable.image2)
+
+        option1Button.setOnClickListener{
+            var message = ""
+            if (cars[counter].price>cars[counter1].price) {
+                message="You got it right!."
+            }
+            else {
+                message="You got it wrong!. It was the "+cars[counter].name+"."
+            }
+            val snackbar = Snackbar.make(game_template,message, Snackbar.LENGTH_LONG)
+            snackbar.show()
+            if (counter1==7) {
+                counter1=1
+                counter=0
+            }
+            else {
+                counter+=2
+                counter1+=2
+            }
+            option1Button.setImageResource(images[counter])
+            option2Button.setImageResource(images[counter1])
+        }
+
+        option2Button.setOnClickListener{
+            var message = ""
+            if (cars[counter].price>cars[counter1].price) {
+                message="You got it right!."
+            }
+            else {
+                message="You got it wrong!. It was the "+cars[counter].name+"."
+            }
+            val snackbar = Snackbar.make(game_template,message, Snackbar.LENGTH_LONG)
+            snackbar.show()
+            if (counter1==7) {
+                counter1=1
+                counter=0
+            }
+            else {
+                counter+=2
+                counter1+=2
+            }
+            option1Button.setImageResource(images[counter])
+            option2Button.setImageResource(images[counter1])
+        }
+
+    }

@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">WICTG V2</string>
+    <string name="game">Game</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="settings">Settings</string>
+    <string name="category">Pick a Category</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="or">or</string>
+    <string name="carImage">Car Image</string>
+    <string name="houseImage">House Image</string>
+    <string name="personImage">Person Image</string>
+    <string name="thingImage">Thing Image</string>
+    <string name="option1Image">Option1 Image</string>
+    <string name="option2Image">Option2 Image</string>
+    <string name="foodImage">Food Image</string>
+    <string name="wic">Which Is Cheaper</string>
+</resources>

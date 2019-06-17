@@ -1,0 +1,4 @@
+#Mon Jun 17 18:00:11 CAT 2019
+base.0=C\:\\Users\\Asus Pro\\Documents\\Programs\\Android\\WICTGV2\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1
+path.0=classes.dex
+renamed.0=classes.dex

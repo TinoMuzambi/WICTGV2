@@ -1,0 +1,7 @@
+GameTemplate gameFrag = new GameTemplate();
+    	object.setOnItemSelectedListener(new GameTemplate.GameTemplateListener() {
+    		@Override
+    		public void onButtonClick(String title) {
+
+    		}
+    	}

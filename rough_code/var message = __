@@ -1,0 +1,19 @@
+var message = ""
+            if (cars[counter].price>cars[counter1].price) {
+                message="You got it right!."
+            }
+            else {
+                message="You got it wrong!. It was the "+cars[counter].name+"."
+            }
+            val snackbar = Snackbar.make(game_template,message, Snackbar.LENGTH_LONG)
+            snackbar.show()
+            if (counter1==7) {
+                counter1=1
+                counter=0
+            }
+            else {
+                counter+=2
+                counter1+=2
+            }
+            option1Button.setImageResource(images[counter])
+            option2Button.setImageResource(images[counter1])

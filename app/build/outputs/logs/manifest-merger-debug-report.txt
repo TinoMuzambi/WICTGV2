@@ -1,0 +1,186 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Asus Pro\Documents\Programs\Android\WICTGV2\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\Asus Pro\Documents\Programs\Android\WICTGV2\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\Asus Pro\Documents\Programs\Android\WICTGV2\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\Asus Pro\Documents\Programs\Android\WICTGV2\app\src\main\AndroidManifest.xml:2:1-27:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\Asus Pro\.gradle\caches\transforms-2\files-2.1\e825995f18eee33ef525cbe4bdf6122a\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Asus Pro\.gradle\caches\transforms-2\files-2.1\8c2c56ccd1e4a93d1a933175912a9c94\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Asus Pro\.gradle\caches\transforms-2\files-2.1\761c5ee33a3ac77b70ab4b623952fa0e\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Asus Pro\.gradle\caches\transforms-2\files-2.1\a91912b712488363d7da1c87d525085a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Asus Pro\.gradle\caches\transforms-2\files-2.1\0843a9a05c643e8722571ad2a1a83aad\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Asus Pro\.gradle\caches\transforms-2\files-2.1\d6fec2035e57a75b4ff24f1caebda57e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Asus Pro\.gradle\caches\transforms-2\files-2.1\23ebe03eeed36bf100bd29d798a0f2c0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Asus Pro\.gradle\caches\transforms-2\files-2.1\8453a1713b9f40b508419682ab4094a9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Asus Pro\.gradle\caches\transforms-2\files-2.1\4aa2e1d4c3e987b08df5f67ae11090c1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Asus Pro\.gradle\caches\transforms-2\files-2.1\982babb388924a5509925e0d9ebdeacc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Asus Pro\.gradle\caches\transforms-2\files-2.1\ea879af61ffda8c0d939fa0af4b24555\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Asus Pro\.gradle\caches\transforms-2\files-2.1\9189282c5fae8e2025e25760af91ecf4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Asus Pro\.gradle\caches\transforms-2\files-2.1\806c12b333ff84e5e0188c308d405eda\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Asus Pro\.gradle\caches\transforms-2\files-2.1\65a2f4900b0fc24fa0e64856b6b47931\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Asus Pro\.gradle\caches\transforms-2\files-2.1\60f28898166a8108dec55864b2901a5a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Asus Pro\.gradle\caches\transforms-2\files-2.1\0d72f97461166d8e7d9f5ff5f643e4e7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Asus Pro\.gradle\caches\transforms-2\files-2.1\1d2b7868740c28a27d6c89a5a2dd68cc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Asus Pro\.gradle\caches\transforms-2\files-2.1\dc029083ae2563c8980e71037f6b966c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Asus Pro\.gradle\caches\transforms-2\files-2.1\43d35336e5653a309da54306d8ecb195\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Asus Pro\.gradle\caches\transforms-2\files-2.1\91dd23ffd9a88916e2e2e595df0cb6eb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Asus Pro\.gradle\caches\transforms-2\files-2.1\4987a04500077787f82e8ee8f4bbd1dc\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Asus Pro\.gradle\caches\transforms-2\files-2.1\a45ae147e84549cecf9d13322da01733\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Asus Pro\.gradle\caches\transforms-2\files-2.1\f9afc0c2faadfa657ca882a00b9e56a1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Asus Pro\.gradle\caches\transforms-2\files-2.1\6a87432fd4a4465548876bf367f24e43\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Asus Pro\.gradle\caches\transforms-2\files-2.1\39e08f82af33e831df778510a14a6351\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Asus Pro\.gradle\caches\transforms-2\files-2.1\dac9f051ca3ee1b9c5f34ee26bbad8dc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Asus Pro\.gradle\caches\transforms-2\files-2.1\73ed6efd74064bcbe6d16d7b14430fcd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Asus Pro\.gradle\caches\transforms-2\files-2.1\1d5cc0df3a56c16ce0430a2b6544eefa\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Asus Pro\.gradle\caches\transforms-2\files-2.1\084ca3bfe563de7a76c793d12a80b013\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Asus Pro\.gradle\caches\transforms-2\files-2.1\7e4739c5f3f0dd1f662ee6d5adefbd2c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Asus Pro\.gradle\caches\transforms-2\files-2.1\ba84fa1ef763e5fdfe6b79be9189a986\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Asus Pro\.gradle\caches\transforms-2\files-2.1\3c49ac6a85cc6e41a5c5811587a45d35\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Asus Pro\.gradle\caches\transforms-2\files-2.1\8e842770ca91d0a61ec43b46da3f82cc\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Asus Pro\Documents\Programs\Android\WICTGV2\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\Asus Pro\Documents\Programs\Android\WICTGV2\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\Asus Pro\Documents\Programs\Android\WICTGV2\app\src\main\AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from C:\Users\Asus Pro\Documents\Programs\Android\WICTGV2\app\src\main\AndroidManifest.xml:3:11-37
+		INJECTED from C:\Users\Asus Pro\Documents\Programs\Android\WICTGV2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Asus Pro\Documents\Programs\Android\WICTGV2\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Asus Pro\Documents\Programs\Android\WICTGV2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Asus Pro\Documents\Programs\Android\WICTGV2\app\src\main\AndroidManifest.xml:2:1-27:12
+		INJECTED from C:\Users\Asus Pro\Documents\Programs\Android\WICTGV2\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Asus Pro\Documents\Programs\Android\WICTGV2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Asus Pro\Documents\Programs\Android\WICTGV2\app\src\main\AndroidManifest.xml:2:1-27:12
+		INJECTED from C:\Users\Asus Pro\Documents\Programs\Android\WICTGV2\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Asus Pro\Documents\Programs\Android\WICTGV2\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\Asus Pro\Documents\Programs\Android\WICTGV2\app\src\main\AndroidManifest.xml:5:5-25:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\Asus Pro\.gradle\caches\transforms-2\files-2.1\e825995f18eee33ef525cbe4bdf6122a\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\Asus Pro\.gradle\caches\transforms-2\files-2.1\e825995f18eee33ef525cbe4bdf6122a\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Asus Pro\.gradle\caches\transforms-2\files-2.1\761c5ee33a3ac77b70ab4b623952fa0e\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Asus Pro\.gradle\caches\transforms-2\files-2.1\761c5ee33a3ac77b70ab4b623952fa0e\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Asus Pro\.gradle\caches\transforms-2\files-2.1\4987a04500077787f82e8ee8f4bbd1dc\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Asus Pro\.gradle\caches\transforms-2\files-2.1\4987a04500077787f82e8ee8f4bbd1dc\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Asus Pro\.gradle\caches\transforms-2\files-2.1\a45ae147e84549cecf9d13322da01733\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Asus Pro\.gradle\caches\transforms-2\files-2.1\a45ae147e84549cecf9d13322da01733\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Asus Pro\.gradle\caches\transforms-2\files-2.1\4987a04500077787f82e8ee8f4bbd1dc\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\Asus Pro\Documents\Programs\Android\WICTGV2\app\src\main\AndroidManifest.xml:10:13-39
+	android:label
+		ADDED from C:\Users\Asus Pro\Documents\Programs\Android\WICTGV2\app\src\main\AndroidManifest.xml:8:13-45
+	android:roundIcon
+		ADDED from C:\Users\Asus Pro\Documents\Programs\Android\WICTGV2\app\src\main\AndroidManifest.xml:9:13-60
+	android:icon
+		ADDED from C:\Users\Asus Pro\Documents\Programs\Android\WICTGV2\app\src\main\AndroidManifest.xml:7:13-49
+	android:allowBackup
+		ADDED from C:\Users\Asus Pro\Documents\Programs\Android\WICTGV2\app\src\main\AndroidManifest.xml:6:13-39
+	android:theme
+		ADDED from C:\Users\Asus Pro\Documents\Programs\Android\WICTGV2\app\src\main\AndroidManifest.xml:11:13-44
+activity#com.test.wictgv2.GameTemplate
+ADDED from C:\Users\Asus Pro\Documents\Programs\Android\WICTGV2\app\src\main\AndroidManifest.xml:12:9-13:20
+	android:name
+		ADDED from C:\Users\Asus Pro\Documents\Programs\Android\WICTGV2\app\src\main\AndroidManifest.xml:12:19-47
+activity#com.test.wictgv2.Game
+ADDED from C:\Users\Asus Pro\Documents\Programs\Android\WICTGV2\app\src\main\AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from C:\Users\Asus Pro\Documents\Programs\Android\WICTGV2\app\src\main\AndroidManifest.xml:14:19-39
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Asus Pro\Documents\Programs\Android\WICTGV2\app\src\main\AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Asus Pro\Documents\Programs\Android\WICTGV2\app\src\main\AndroidManifest.xml:16:17-68
+	android:name
+		ADDED from C:\Users\Asus Pro\Documents\Programs\Android\WICTGV2\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Asus Pro\Documents\Programs\Android\WICTGV2\app\src\main\AndroidManifest.xml:18:17-76
+	android:name
+		ADDED from C:\Users\Asus Pro\Documents\Programs\Android\WICTGV2\app\src\main\AndroidManifest.xml:18:27-74
+activity#com.test.wictgv2.Dashboard
+ADDED from C:\Users\Asus Pro\Documents\Programs\Android\WICTGV2\app\src\main\AndroidManifest.xml:21:9-22:20
+	android:name
+		ADDED from C:\Users\Asus Pro\Documents\Programs\Android\WICTGV2\app\src\main\AndroidManifest.xml:21:19-44
+activity#com.test.wictgv2.Settings
+ADDED from C:\Users\Asus Pro\Documents\Programs\Android\WICTGV2\app\src\main\AndroidManifest.xml:23:9-24:20
+	android:name
+		ADDED from C:\Users\Asus Pro\Documents\Programs\Android\WICTGV2\app\src\main\AndroidManifest.xml:23:19-43
+uses-sdk
+INJECTED from C:\Users\Asus Pro\Documents\Programs\Android\WICTGV2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Asus Pro\Documents\Programs\Android\WICTGV2\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Asus Pro\Documents\Programs\Android\WICTGV2\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] C:\Users\Asus Pro\.gradle\caches\transforms-2\files-2.1\e825995f18eee33ef525cbe4bdf6122a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\Asus Pro\.gradle\caches\transforms-2\files-2.1\e825995f18eee33ef525cbe4bdf6122a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Asus Pro\.gradle\caches\transforms-2\files-2.1\8c2c56ccd1e4a93d1a933175912a9c94\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Asus Pro\.gradle\caches\transforms-2\files-2.1\8c2c56ccd1e4a93d1a933175912a9c94\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Asus Pro\.gradle\caches\transforms-2\files-2.1\761c5ee33a3ac77b70ab4b623952fa0e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Asus Pro\.gradle\caches\transforms-2\files-2.1\761c5ee33a3ac77b70ab4b623952fa0e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Asus Pro\.gradle\caches\transforms-2\files-2.1\a91912b712488363d7da1c87d525085a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Asus Pro\.gradle\caches\transforms-2\files-2.1\a91912b712488363d7da1c87d525085a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Asus Pro\.gradle\caches\transforms-2\files-2.1\0843a9a05c643e8722571ad2a1a83aad\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Asus Pro\.gradle\caches\transforms-2\files-2.1\0843a9a05c643e8722571ad2a1a83aad\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Asus Pro\.gradle\caches\transforms-2\files-2.1\d6fec2035e57a75b4ff24f1caebda57e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Asus Pro\.gradle\caches\transforms-2\files-2.1\d6fec2035e57a75b4ff24f1caebda57e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Asus Pro\.gradle\caches\transforms-2\files-2.1\23ebe03eeed36bf100bd29d798a0f2c0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Asus Pro\.gradle\caches\transforms-2\files-2.1\23ebe03eeed36bf100bd29d798a0f2c0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Asus Pro\.gradle\caches\transforms-2\files-2.1\8453a1713b9f40b508419682ab4094a9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Asus Pro\.gradle\caches\transforms-2\files-2.1\8453a1713b9f40b508419682ab4094a9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Asus Pro\.gradle\caches\transforms-2\files-2.1\4aa2e1d4c3e987b08df5f67ae11090c1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Asus Pro\.gradle\caches\transforms-2\files-2.1\4aa2e1d4c3e987b08df5f67ae11090c1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Asus Pro\.gradle\caches\transforms-2\files-2.1\982babb388924a5509925e0d9ebdeacc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Asus Pro\.gradle\caches\transforms-2\files-2.1\982babb388924a5509925e0d9ebdeacc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Asus Pro\.gradle\caches\transforms-2\files-2.1\ea879af61ffda8c0d939fa0af4b24555\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Asus Pro\.gradle\caches\transforms-2\files-2.1\ea879af61ffda8c0d939fa0af4b24555\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Asus Pro\.gradle\caches\transforms-2\files-2.1\9189282c5fae8e2025e25760af91ecf4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Asus Pro\.gradle\caches\transforms-2\files-2.1\9189282c5fae8e2025e25760af91ecf4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Asus Pro\.gradle\caches\transforms-2\files-2.1\806c12b333ff84e5e0188c308d405eda\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Asus Pro\.gradle\caches\transforms-2\files-2.1\806c12b333ff84e5e0188c308d405eda\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Asus Pro\.gradle\caches\transforms-2\files-2.1\65a2f4900b0fc24fa0e64856b6b47931\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Asus Pro\.gradle\caches\transforms-2\files-2.1\65a2f4900b0fc24fa0e64856b6b47931\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Asus Pro\.gradle\caches\transforms-2\files-2.1\60f28898166a8108dec55864b2901a5a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Asus Pro\.gradle\caches\transforms-2\files-2.1\60f28898166a8108dec55864b2901a5a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Asus Pro\.gradle\caches\transforms-2\files-2.1\0d72f97461166d8e7d9f5ff5f643e4e7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Asus Pro\.gradle\caches\transforms-2\files-2.1\0d72f97461166d8e7d9f5ff5f643e4e7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Asus Pro\.gradle\caches\transforms-2\files-2.1\1d2b7868740c28a27d6c89a5a2dd68cc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Asus Pro\.gradle\caches\transforms-2\files-2.1\1d2b7868740c28a27d6c89a5a2dd68cc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Asus Pro\.gradle\caches\transforms-2\files-2.1\dc029083ae2563c8980e71037f6b966c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Asus Pro\.gradle\caches\transforms-2\files-2.1\dc029083ae2563c8980e71037f6b966c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Asus Pro\.gradle\caches\transforms-2\files-2.1\43d35336e5653a309da54306d8ecb195\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Asus Pro\.gradle\caches\transforms-2\files-2.1\43d35336e5653a309da54306d8ecb195\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Asus Pro\.gradle\caches\transforms-2\files-2.1\91dd23ffd9a88916e2e2e595df0cb6eb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Asus Pro\.gradle\caches\transforms-2\files-2.1\91dd23ffd9a88916e2e2e595df0cb6eb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Asus Pro\.gradle\caches\transforms-2\files-2.1\4987a04500077787f82e8ee8f4bbd1dc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Asus Pro\.gradle\caches\transforms-2\files-2.1\4987a04500077787f82e8ee8f4bbd1dc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Asus Pro\.gradle\caches\transforms-2\files-2.1\a45ae147e84549cecf9d13322da01733\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Asus Pro\.gradle\caches\transforms-2\files-2.1\a45ae147e84549cecf9d13322da01733\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Asus Pro\.gradle\caches\transforms-2\files-2.1\f9afc0c2faadfa657ca882a00b9e56a1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Asus Pro\.gradle\caches\transforms-2\files-2.1\f9afc0c2faadfa657ca882a00b9e56a1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Asus Pro\.gradle\caches\transforms-2\files-2.1\6a87432fd4a4465548876bf367f24e43\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Asus Pro\.gradle\caches\transforms-2\files-2.1\6a87432fd4a4465548876bf367f24e43\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Asus Pro\.gradle\caches\transforms-2\files-2.1\39e08f82af33e831df778510a14a6351\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Asus Pro\.gradle\caches\transforms-2\files-2.1\39e08f82af33e831df778510a14a6351\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Asus Pro\.gradle\caches\transforms-2\files-2.1\dac9f051ca3ee1b9c5f34ee26bbad8dc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Asus Pro\.gradle\caches\transforms-2\files-2.1\dac9f051ca3ee1b9c5f34ee26bbad8dc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Asus Pro\.gradle\caches\transforms-2\files-2.1\73ed6efd74064bcbe6d16d7b14430fcd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Asus Pro\.gradle\caches\transforms-2\files-2.1\73ed6efd74064bcbe6d16d7b14430fcd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Asus Pro\.gradle\caches\transforms-2\files-2.1\1d5cc0df3a56c16ce0430a2b6544eefa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Asus Pro\.gradle\caches\transforms-2\files-2.1\1d5cc0df3a56c16ce0430a2b6544eefa\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Asus Pro\.gradle\caches\transforms-2\files-2.1\084ca3bfe563de7a76c793d12a80b013\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Asus Pro\.gradle\caches\transforms-2\files-2.1\084ca3bfe563de7a76c793d12a80b013\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Asus Pro\.gradle\caches\transforms-2\files-2.1\7e4739c5f3f0dd1f662ee6d5adefbd2c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Asus Pro\.gradle\caches\transforms-2\files-2.1\7e4739c5f3f0dd1f662ee6d5adefbd2c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Asus Pro\.gradle\caches\transforms-2\files-2.1\ba84fa1ef763e5fdfe6b79be9189a986\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Asus Pro\.gradle\caches\transforms-2\files-2.1\ba84fa1ef763e5fdfe6b79be9189a986\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Asus Pro\.gradle\caches\transforms-2\files-2.1\3c49ac6a85cc6e41a5c5811587a45d35\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Asus Pro\.gradle\caches\transforms-2\files-2.1\3c49ac6a85cc6e41a5c5811587a45d35\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Asus Pro\.gradle\caches\transforms-2\files-2.1\8e842770ca91d0a61ec43b46da3f82cc\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Asus Pro\.gradle\caches\transforms-2\files-2.1\8e842770ca91d0a61ec43b46da3f82cc\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Asus Pro\Documents\Programs\Android\WICTGV2\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Asus Pro\Documents\Programs\Android\WICTGV2\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Asus Pro\Documents\Programs\Android\WICTGV2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Asus Pro\Documents\Programs\Android\WICTGV2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Asus Pro\Documents\Programs\Android\WICTGV2\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Asus Pro\Documents\Programs\Android\WICTGV2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Asus Pro\Documents\Programs\Android\WICTGV2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Asus Pro\Documents\Programs\Android\WICTGV2\app\src\main\AndroidManifest.xml

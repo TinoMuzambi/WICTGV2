@@ -1,0 +1,2 @@
+option1Button.setImageResource(R.drawable.image1)
+        option2Button.setImageResource(R.drawable.image2)
