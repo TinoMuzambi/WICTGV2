@@ -14,7 +14,7 @@ class Game : AppCompatActivity(){
     val car2 = Car(2395000,"Aston Martin Vanquish")
     val car3 = Car(300000,"Audi A1")
     val car4 = Car(30000000,"Bugatti Veyron")
-    val car5 = Car(1000000,"Bentley Continental GT")
+    val car5 = Car(1000000,"Bentley Continental GT Sport")
     val car6 = Car(360000,"BMW X3")
     val car7 = Car(250000,"Cadillac Escalade")
     val car8 = Car(1000000,"Chevrolet Camaro")
