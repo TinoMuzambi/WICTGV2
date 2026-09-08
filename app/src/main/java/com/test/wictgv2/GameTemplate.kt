@@ -9,6 +9,28 @@ import kotlinx.android.synthetic.main.activity_game_template.*
 
 class GameTemplate : AppCompatActivity() {
 
+    private val cars = arrayOf(
+        Car(270000, "Alfa Romeo Mito"),
+        Car(2395000, "Aston Martin Vanquish"),
+        Car(300000, "Audi A1"),
+        Car(30000000, "Bugatti Veyron"),
+        Car(1000000, "Bentley Continental GT Sport"),
+        Car(360000, "BMW X3"),
+        Car(250000, "Cadillac Escalade"),
+        Car(1000000, "Chevrolet Camaro")
+    )
+
+    private val images = arrayOf(
+        R.drawable.image1,
+        R.drawable.image2,
+        R.drawable.image3,
+        R.drawable.image4,
+        R.drawable.image5,
+        R.drawable.image6,
+        R.drawable.image7,
+        R.drawable.image8
+    )
+
     override fun onStop() {
         super.onStop()
         gameIsActive = false
@@ -35,7 +57,7 @@ class GameTemplate : AppCompatActivity() {
         false
     }
     
-    fun runGame(images : Array<Int>, objects : Array<Car>) {
+    private fun runGame() {
         option1Button.setImageResource(images[0])
         option2Button.setImageResource(images[1])
 
@@ -43,10 +65,10 @@ class GameTemplate : AppCompatActivity() {
         var counter1=1
 
         option1Button.setOnClickListener{
-            val message = if (objects[counter].price<objects[counter1].price) {
-                "You got it right!."
+            val message = if (cars[counter].price < cars[counter1].price) {
+                "You got it right!"
             } else {
-                "You got it wrong!. It was the "+objects[counter1].name+"."
+                "You got it wrong! It was the ${cars[counter1].name}."
             }
             val snackbar = Snackbar.make(game_template,message, Snackbar.LENGTH_LONG)
             snackbar.show()
@@ -63,10 +85,10 @@ class GameTemplate : AppCompatActivity() {
         }
 
         option2Button.setOnClickListener{
-            val message = if (objects[counter1].price<objects[counter].price) {
-                "You got it right!."
+            val message = if (cars[counter1].price < cars[counter].price) {
+                "You got it right!"
             } else {
-                "You got it wrong!. It was the "+objects[counter].name+"."
+                "You got it wrong! It was the ${cars[counter].name}."
             }
             val snackbar = Snackbar.make(game_template,message, Snackbar.LENGTH_LONG)
             snackbar.show()
@@ -88,5 +110,6 @@ class GameTemplate : AppCompatActivity() {
         setContentView(R.layout.activity_game_template)
         gameIsActive = true
         bottomNavigation.setOnNavigationItemSelectedListener(mOnNavigationItemSelectedListener)
+        runGame()
     }
 }
