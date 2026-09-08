@@ -10,27 +10,6 @@ import kotlinx.android.synthetic.main.activity_game.*
 var gameIsActive = false
 
 class Game : AppCompatActivity(){
-    val car1 = Car(270000,"Alfa Romeo Mito")
-    val car2 = Car(2395000,"Aston Martin Vanquish")
-    val car3 = Car(300000,"Audi A1")
-    val car4 = Car(30000000,"Bugatti Veyron")
-    val car5 = Car(1000000,"Bentley Continental GT Sport")
-    val car6 = Car(360000,"BMW X3")
-    val car7 = Car(250000,"Cadillac Escalade")
-    val car8 = Car(1000000,"Chevrolet Camaro")
-
-    val images = arrayOf(
-        R.drawable.image1,
-        R.drawable.image2,
-        R.drawable.image3,
-        R.drawable.image4,
-        R.drawable.image5,
-        R.drawable.image6,
-        R.drawable.image7,
-        R.drawable.image8)
-
-    val cars = arrayOf(car1,car2,car3,car4,car5,car6,car7,car8)
-
     private val mOnNavigationItemSelectedListener = BottomNavigationView.OnNavigationItemSelectedListener { item ->
         when (item.itemId) {
             R.id.nav_game -> {
@@ -69,7 +48,6 @@ class Game : AppCompatActivity(){
             val intent = Intent(this,GameTemplate::class.java)
             intent.addFlags(Intent.FLAG_ACTIVITY_REORDER_TO_FRONT)
             startActivity(intent)
-            GameTemplate().runGame(images,cars)
             gameIsActive = true
             snackbar.show()
         }

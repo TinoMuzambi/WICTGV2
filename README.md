@@ -24,6 +24,12 @@ Set the SDK location in an untracked `local.properties` file or through
 `ANDROID_HOME`. Generated builds, Gradle caches, IDE metadata, and local SDK
 paths are intentionally excluded from version control.
 
+The car game now initialises its controls from the launched activity instance;
+the previous code constructed a detached `Activity`, which could crash before
+the game screen had created its views. Non-launcher activities are explicitly
+kept internal to the app and application backup is disabled because the game
+has no user data to preserve.
+
 ## Modernisation boundary
 
 This cleanup restores a source-only repository and documents the known build
