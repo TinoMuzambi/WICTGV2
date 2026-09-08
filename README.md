@@ -23,6 +23,10 @@ With Android SDK 28 installed and a compatible JDK (Java 8 was contemporary):
 Set the SDK location in an untracked `local.properties` file or through
 `ANDROID_HOME`. Generated builds, Gradle caches, IDE metadata, and local SDK
 paths are intentionally excluded from version control.
+Unused template icons and scratch snippets have also been removed so the tree
+contains only resources that ship in the application. Bitmap assets now use
+Android's density-neutral resource directory, while launcher icons use the
+existing density-specific mipmaps.
 
 The car game now initialises its controls from the launched activity instance;
 the previous code constructed a detached `Activity`, which could crash before
