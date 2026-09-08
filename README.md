@@ -8,7 +8,7 @@ the original 2019 application code as a legacy portfolio project.
 
 The Gradle wrapper, root project, `settings.gradle`, and `app` module are all
 present, so the checkout is structurally complete. It uses Android Gradle Plugin
-3.4.1, Gradle 5.1.1, Kotlin 1.3.11, and the pre-AndroidX support libraries.
+3.4.1, Gradle 5.1.1, Kotlin 1.3.72, and the pre-AndroidX support libraries.
 Those versions require a legacy Android/JDK toolchain and are not expected to
 run on current JDK 21 without a deliberate AndroidX/Gradle migration.
 
