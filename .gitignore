@@ -1,0 +1,18 @@
+# Gradle build state and outputs
+.gradle/
+**/build/
+
+# Local Android SDK/NDK locations
+local.properties
+
+# Android Studio and IntelliJ
+.idea/
+*.iml
+
+# Native build and capture outputs
+.externalNativeBuild/
+.cxx/
+captures/
+
+# Operating-system files
+.DS_Store

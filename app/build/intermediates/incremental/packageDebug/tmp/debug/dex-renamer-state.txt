@@ -1,4 +1,0 @@
-#Sat Aug 17 01:56:48 CAT 2019
-base.0=C\:\\Users\\Asus Pro\\Documents\\Programs\\Android\\WICTGV2\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
-path.0=classes.dex
-renamed.0=classes.dex
